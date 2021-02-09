@@ -1,0 +1,4 @@
+baseURL = "https://cringerlabs.com/"
+languageCode = "en-us"
+title = "A SysAdmin Flying up to Cloud!"
+theme = "m10c"
